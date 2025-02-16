@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 #### &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/AlexanderPro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderPro&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="Alexander Illarionov's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderPro&show_icons=true&line_height=33&count_private=true&include_all_commits=true&theme=default" alt="Alexander Illarionov's GitHub Stats" />
 </a>
